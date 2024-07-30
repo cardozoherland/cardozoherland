@@ -26,7 +26,7 @@
 
 ## 📫 Cómo contactarme
 
-- Email: mojicacardozoh@gmail.com.com
+- Email: mojicacardozoh@gmail.com
 - LinkedIn: [Herland Mojica](https://www.linkedin.com/in/herlandmojica/)
 
 ¡Gracias por visitar mi perfil! 😊
