@@ -1,19 +1,25 @@
-<h1 align="center">Hi 👋, I'm Herland Mojica Cardozo</h1>
-<h3 align="center">A passionate frontend developer from Santa Cruz-Bolivia</h3>
+# 👋 ¡Hola! Soy [Herland Mojica]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cardozoherland" alt="cardozoherland" /></a> </p>
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y la programación. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
-<p align="left"> <a href="https://twitter.com/hachesw" target="blank"><img src="https://img.shields.io/twitter/follow/hachesw?logo=twitter&style=for-the-badge" alt="hachesw" /></a> </p>
+## 🚀 Sobre Mí
 
-- 🌱 I’m currently learning **courses udemy**
+- 📚 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
+- ⚡ Me encanta resolver problemas y aprender cosas nuevas.
+- 🎯 Objetivos: Convertirme en un desarrollador full-stack y contribuir a proyectos de código abierto.
 
-- 💬 Ask me about **git**
+## 🛠️ Tecnologías que manejo
 
-- 📫 How to reach me **mojicacardozoh@gmail.com**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/herland mojica cardozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herland mojica cardozo" height="30" width="40" /></a>
-</p>
+## 📫 Cómo contactarme
 
+- Email: [mojicacardozoh@gmail.com.com](mailto: mojicacardozoh@gmail.com.com)
+- LinkedIn: [Herland Mojica](https://www.linkedin.com/in/herlandmojica/)
+
+¡Gracias por visitar mi perfil! 😊
 
